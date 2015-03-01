@@ -1,7 +1,4 @@
-package nl.breun.web.servlet;
-
-import nl.breun.UserService;
-import nl.breun.wildfly8.User;
+package nl.breun.wildfly8;
 
 import javax.ejb.EJB;
 import javax.servlet.annotation.WebServlet;

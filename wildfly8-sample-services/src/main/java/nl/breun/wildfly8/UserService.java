@@ -1,6 +1,4 @@
-package nl.breun;
-
-import nl.breun.wildfly8.User;
+package nl.breun.wildfly8;
 
 import javax.ejb.Stateless;
 
